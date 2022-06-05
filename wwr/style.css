@@ -25,7 +25,7 @@ header {
     text-align: left;
 }
 nav a:hover {
-    background-color: black;
+    background-color: rgb(137, 123, 123);
 }
 a:hover {
     background-color: #d9c2a3;
@@ -37,7 +37,7 @@ a:hover {
 }
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #d9c2a3;
     text-decoration: none;
     padding: 35px;
 }
@@ -45,10 +45,12 @@ nav a {
 {
     padding-bottom: 15px;
 }
+
 nav a
 #hero-msg h1, #hero-msg h4
 .button-box
 main section{
+    
     text-align: center;
 }
 
@@ -72,6 +74,7 @@ img.logo{
 }
 .home-title{
     font-size: 2em;
+    color: #d9c2a3;
 }
 .book{
     font-size: 18px;
@@ -169,7 +172,7 @@ nav {
     grid-row: 1/3;
 }
 #hero-msg h4 {
-    color: white;
+    color: #d9c2a3;
 }
 #hero {
     display: grid;
