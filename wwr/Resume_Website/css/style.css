@@ -55,7 +55,7 @@ footer, section.msg{
     background-color: rgba(20,30,13, .7); 
 }
 section.msg{
-    background-color: #6f7364;
+    background-color: rgb(13,103,181);
 }
 footer{
     text-align: left;
@@ -223,7 +223,7 @@ main {
     grid-row: 6/7;
 }
 footer {
-    background-color: #6f7364;
+    background-color: rgb(13,103,181);
     padding: 25px 50px;
     margin-top: 200px; 
     display: flex;
@@ -234,21 +234,21 @@ footer {
 .card-img {
     border: 10px solid #d9c2a3;
     transition: transform .5s;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px rgb(13,103,181);
 }
 
 .msg {
-    background-color: #6f7364;
+    background-color: rgb(13,103,181);
     padding: 35px;
     grid-column: 6/9;
     grid-row: 6/7;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px rgb(13,103,181);
 }
 .mountains {
     width: 100%;
     grid-column: 3/7;
     grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px rgb(13,103,181);
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
@@ -273,7 +273,7 @@ footer {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: rgb(13,103,181);
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
