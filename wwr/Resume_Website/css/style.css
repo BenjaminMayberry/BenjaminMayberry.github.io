@@ -373,3 +373,67 @@ footer {
 main {
     background-color: #e7e7e7;
 }
+#MyPhoto {
+    width: auto;
+    text-align: left;
+    padding: 0%;
+    border: 0px;
+    
+    
+  }
+  #KnacklyLogo{
+    width: auto;
+    text-align: center;
+    padding: 0%;
+    border: 0px;   
+  }
+#grid {
+    display: grid;
+    
+    grid-template-columns: auto 1fr;
+    /* grid-template-columns: auto auto1fr 1fr; */
+    
+}
+#gridblock1 {
+    width: auto;
+    max-width: 625px;
+    padding: 0%;
+    border: 0in;
+    
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    
+  }
+  #gridblock1resume {
+    width: auto;
+    max-width: 879px;
+    padding: 20px;
+    border: 20px;
+    background-color: #e7e7e7;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    
+  }
+  #gridblock1works {
+    width: auto;
+    max-width: 757px;
+    padding: 0%;
+    border: 0in;
+    background-color: #e7e7e7;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    
+  }
+  
+  #gridblock2 {
+    min-width: 100px;
+    text-align: left;
+    padding: 10px;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
+    
+  }
