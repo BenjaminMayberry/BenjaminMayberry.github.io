@@ -394,7 +394,7 @@ main {
     height: auto;
   }
 #grid {
-    display: grid;
+    display: grid; 
     
     grid-template-columns: auto 1fr;
     /* grid-template-columns: auto auto1fr 1fr; */
