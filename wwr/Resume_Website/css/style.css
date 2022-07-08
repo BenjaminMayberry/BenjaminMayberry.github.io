@@ -374,7 +374,7 @@ main {
     background-color: #e7e7e7;
 }
 #MyPhoto {
-    width: auto;
+
     text-align: left;
     padding: 0%;
     border: 0px;
@@ -382,10 +382,16 @@ main {
     
   }
   #KnacklyLogo{
-    width: auto;
     text-align: center;
     padding: 0%;
     border: 0px;   
+  }
+
+
+  .responsive {
+    width: 100%;
+    max-width: auto;
+    height: auto;
   }
 #grid {
     display: grid;
